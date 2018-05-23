@@ -117,19 +117,19 @@
     </factor>
     <factor id="completionFinishedType">
       <dailyData date="23-5-2018">
-        <observation name="cancelled" value="221.0" />
+        <observation name="cancelled" value="230.0" />
         <observation name="explicitSelect" value="49.0" />
         <observation name="typedSelect" value="32.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="23-5-2018">
-        <observation name="BASIC" value="111.0" />
+        <observation name="BASIC" value="117.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
       <dailyData date="23-5-2018">
-        <observation name="count" value="302.0" />
+        <observation name="count" value="311.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -339,8 +339,8 @@
     </factor>
     <factor id="timeBetweenTyping">
       <dailyData date="23-5-2018">
-        <observation name="average" value="236.763158" />
-        <observation name="count" value="266.0" />
+        <observation name="average" value="237.278388" />
+        <observation name="count" value="273.0" />
       </dailyData>
     </factor>
   </component>
