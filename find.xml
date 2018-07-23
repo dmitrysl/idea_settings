@@ -7,6 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="v_18_3_*_11*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,5 +19,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>v_18_3_*.sql</mask>
+    <mask>v_18_3_*_11*.sql</mask>
   </component>
 </application>
