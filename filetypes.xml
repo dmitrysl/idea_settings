@@ -5,6 +5,7 @@
       <mapping pattern="1cf3e34a" type="PLAIN_TEXT" />
       <mapping pattern="pre-fetch" type="PLAIN_TEXT" />
       <mapping ext="ps" type="PLAIN_TEXT" />
+      <mapping ext="5" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
