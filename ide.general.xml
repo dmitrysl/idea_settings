@@ -7,6 +7,7 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="CBT.system.in.process" value="true" />
-    <entry key="ide.svg.icon" value="true" />
+    <entry key="BSP.experimental.feature.enabled" value="false" />
+    <entry key="BSP.system.in.process" value="true" />
   </component>
 </application>
