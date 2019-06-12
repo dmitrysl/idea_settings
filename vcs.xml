@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlabe1.ext.net.nokia.com" />
           <option name="userName" value="sliepche" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.nokia.atos.net" />
+          <option name="userName" value="dmitry" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
