@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="pre-fetch" type="PLAIN_TEXT" />
+      <mapping pattern="1cf3e34a" type="PLAIN_TEXT" />
+      <mapping pattern="v_18_2_1805081547_11__backup_NBDO_SO_SCHED_table.sql" type="PLAIN_TEXT" />
+      <mapping ext="6" type="PLAIN_TEXT" />
+      <mapping ext="ps" type="PLAIN_TEXT" />
+      <mapping ext="5" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
