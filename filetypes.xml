@@ -3,15 +3,15 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="v_18_2_1805081547_11__backup_NBDO_SO_SCHED_table.sql" type="PLAIN_TEXT" />
-      <mapping pattern="1cf3e34a" type="PLAIN_TEXT" />
       <mapping pattern="pre-fetch" type="PLAIN_TEXT" />
+      <mapping pattern="1cf3e34a" type="PLAIN_TEXT" />
+      <mapping pattern="v_18_2_1805081547_11__backup_NBDO_SO_SCHED_table.sql" type="PLAIN_TEXT" />
       <mapping ext="6" type="PLAIN_TEXT" />
       <mapping ext="ps" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
