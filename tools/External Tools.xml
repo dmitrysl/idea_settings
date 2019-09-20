@@ -1,9 +1,9 @@
 <toolSet name="External Tools">
-  <tool name="fuse" description="Fuse 6.2.1" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="fuse" description="Fuse 6.2.1" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="D:\Project\nsn\esb\software\jboss-fuse-6.2.1.redhat-084\bin\fuse.bat" />
       <option name="PARAMETERS" value="debug" />
-      <option name="WORKING_DIRECTORY" value="D:/Project/nsn/esb/software/jboss-fuse-6.2.1.redhat-084/bin" />
+      <option name="WORKING_DIRECTORY" value="D:/Project/nsn/esb/software/jboss-fuse-6.2.1.redhat-084" />
     </exec>
   </tool>
 </toolSet>
